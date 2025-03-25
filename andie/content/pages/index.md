@@ -5,9 +5,10 @@ URL:
 Hello and thank you for visiting I'll try and keep things up to date on what I am presently working on, check out my blog for for details. I am currently working with the Embedded AI Systems Lab at Eastern Michigan University on research involving Neural Style Transfer.
 
 <br>
-<img style="width:20%;" src="{static}/images/Pagoda1.jpeg" alt="Artistically styled pagoda 1">
-<img style="width:20%;" src="{static}/images/Pagoda2.jpeg" alt="Artistically styled pagoda 2">
-<img style="width:20%;" src="{static}/images/Pagoda3.jpeg" alt="Artistically styled pagoda 3">
+<img style="width:20%;" src="{static}/images/Pagoda1.jpeg" alt="Artistically styled pagoda image 1">
+<img style="width:20%;" src="{static}/images/Pagoda2.jpeg" alt="Artistically styled pagoda image 2">
+<img style="width:20%;" src="{static}/images/Pagoda3.jpeg" alt="Artistically styled pagoda image 3">
+<img style="width:20%;" src="{static}/images/PagodaOriginal.jpeg" alt="Original photo of a pagoda">
 <br>
 
 ## Things Interesting Me Now ##

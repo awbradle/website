@@ -24,4 +24,5 @@ DELETE_OUTPUT_DIRECTORY = True
 MENUITEMS = (
   ('Home','/~abradl26'),
   ('About','/~abradl26/about/'),
+  ('Projects', '/~abradl26/projects'),
 )

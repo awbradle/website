@@ -36,18 +36,27 @@ DEFAULT_PAGINATION = 10
 DISPLAY_PAGES_ON_MENU = False
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_EXCLUDES = ['static']
 
 # Name your content directory posts
-ARTICLE_EXCLUDES = ['pages']
+ARTICLE_EXCLUDES = ['pages', 'static']
 ARTICLE_PATHS = ['blog']
 ARTICLE_URL = 'blog/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 ARTICLE_ORDER_BY = 'reversed-date'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'static']
 
+MAIN_MENU = True
 MENUITEMS = (
   ('Home','/'),
   ('About','/about'),
-  ('Projects','/projects'),
+  ('Projects', '/projects')
+  	
 )
+
+EXTRA_PATH_METADATA = {
+    'static/gol/game.html': {'path': 'projects/gol/index.html'},
+    'static/gol/Display.js': {'path': 'projects/gol/Display.js'},
+    'static/gol/GameLife.js': {'path': 'projects/gol/GameLife.js'},
+}
