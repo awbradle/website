@@ -15,5 +15,5 @@ This is one of the first things I ever made with Javascript for a web developmen
 ### [FreeBSD Halloy Port](https://www.freshports.org/irc/halloy/) ###
 This is actually my first contribution to an open source project. I'd been using [Halloy](https://halloy.squidowl.org) since late 2024 after learning HexChat was discontinued. It was around this time I started around with FreeBSD on a spare desktop I was using to learn C and operating system concepts. When I found out no one had ported it yet, this was the perfect opportunity to work on something I cared about.
 
-### [FreeBSD GSoC Proposal]({static}/projects/gsoc) ###
+### [FreeBSD GSoC Proposal]({static}/projects/gsoc2025) ###
 I'm parking my Google Summer of Code proposal here for now. This is for a TUI wifi configuration tool for FreeBSD.

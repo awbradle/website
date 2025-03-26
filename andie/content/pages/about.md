@@ -7,7 +7,7 @@ Author: Andie Bradley
 Summary: about me page
 
 
-<img style="width:35%;" src="{static}/images/me.jpeg" alt="Photo of the author">
+<img style="width:35%;" src="{static}/images/about/me.jpeg" alt="Photo of the author">
 <br>
 Hi, my name is Andie Bradley (they/them). I am a graduate student at Easter Michigan University finishing a MS in Computer Science. Previously I worked at a healthcare IT company called Epic in Madison WI. I currently live in Madison, WI in a housing cooperative with 15 other people and 1 cat.
 
